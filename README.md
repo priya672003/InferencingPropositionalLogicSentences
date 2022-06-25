@@ -1,4 +1,8 @@
-# Inferencing Propositional Logic Sentences
+### EX.NO : 07
+
+### DATE : 23/06/2022
+
+# <p align="center"> Inferencing Propositional Logic Sentences </p> 
 
 ## AIM
 
