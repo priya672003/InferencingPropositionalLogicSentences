@@ -37,6 +37,12 @@ Using wumpus_kb.ask_if_true() to get the result based on TRUE value.
 
 ## PROGRAM
 
+### DEVELOPED BY
+
+### NAME:  PRIYADARSHINI R
+
+### REG.NO :  212220230038
+
 ```Python 3
 
 from utils import *
